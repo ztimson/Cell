@@ -37,13 +37,19 @@
   - [License](#license)
 
 ## About
+
+![Screenshot](./docs/Screenshot%202023-08-14%20164737.png)
+
 Cell is an experimental game concept. It's goal is to create a fun programming game themed around microscopic cells & their evolution.
 
 Players have access to an API in _Javascript_ to program a cell to consume other cells & survive a hostile environment. As the user progresses they will gain access to more of the API allowing their cells to become more complex.
 
+The game is built using the _p5.js_ to render simple game objects.
+
 ### Built With
 [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)](https://javascript.com/)
 [![Node](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
+[![p5.js](https://img.shields.io/badge/p5.js-ed225d?style=for-the-badge&logo=p5dotjs&logoColor=white)](https://p5js.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
 
 ## Setup
