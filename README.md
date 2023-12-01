@@ -72,6 +72,6 @@ The game is built using the _p5.js_ to render simple game objects.
 </details>
 
 ## License
-Copyright © 2023 Zakary Timson | All Rights Reserved | Available under MIT Licensing
+Copyright © 2023 Zakary Timson | All Rights Reserved
 
 See the [license](./LICENSE) for more information.
