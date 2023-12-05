@@ -12,17 +12,16 @@
   Program your own "cell"
 
   <!-- Repo badges -->
-  [![Version](https://img.shields.io/badge/dynamic/json.svg?label=Version&style=for-the-badge&url=https://git.zakscode.com/api/v1/repos/ztimson/Cell/tags&query=$[0].name)](https://git.zakscode.com/ztimson/Cell/tags)
-  [![Pull Requests](https://img.shields.io/badge/dynamic/json.svg?label=Pull%20Requests&style=for-the-badge&url=https://git.zakscode.com/api/v1/repos/ztimson/Cell&query=open_pr_counter)](https://git.zakscode.com/ztimson/Cell/pulls)
-  [![Issues](https://img.shields.io/badge/dynamic/json.svg?label=Issues&style=for-the-badge&url=https://git.zakscode.com/api/v1/repos/ztimson/Cell&query=open_issues_count)](https://git.zakscode.com/ztimson/Cell/issues)
+  [![Version](https://img.shields.io/badge/dynamic/json.svg?label=Version&style=for-the-badge&url=https://git.zakscode.com/api/v1/repos/ztimson/cell/tags&query=$[0].name)](https://git.zakscode.com/ztimson/cell/tags)
+  [![Pull Requests](https://img.shields.io/badge/dynamic/json.svg?label=Pull%20Requests&style=for-the-badge&url=https://git.zakscode.com/api/v1/repos/ztimson/cell&query=open_pr_counter)](https://git.zakscode.com/ztimson/cell/pulls)
+  [![Issues](https://img.shields.io/badge/dynamic/json.svg?label=Issues&style=for-the-badge&url=https://git.zakscode.com/api/v1/repos/ztimson/cell&query=open_issues_count)](https://git.zakscode.com/ztimson/cell/issues)
 
   <!-- Links -->
   ---
   <div>
-    <a href="https://git.zakscode.com/ztimson/template/wiki" target="_blank">Documentation</a>
-    • <a href="https://git.zakscode.com/ztimson/template/releases" target="_blank">Release Notes</a>
-    • <a href="https://git.zakscode.com/ztimson/template/issues/new?template=.github%2fissue_template%2fbug.md" target="_blank">Report a Bug</a>
-    • <a href="https://git.zakscode.com/ztimson/template/issues/new?template=.github%2fissue_template%2fenhancement.md" target="_blank">Request a Feature</a>
+    <a href="https://git.zakscode.com/ztimson/cell/releases" target="_blank">Release Notes</a>
+    • <a href="https://git.zakscode.com/ztimson/cell/issues/new?template=.github%2fissue_template%2fbug.md" target="_blank">Report a Bug</a>
+    • <a href="https://git.zakscode.com/ztimson/cell/issues/new?template=.github%2fissue_template%2fenhancement.md" target="_blank">Request a Feature</a>
   </div>
 
   ---
