@@ -37,7 +37,7 @@
 
 ## About
 
-<img alt="Screenshot" src="./docs/Screenshot%202023-08-14%20164737.png" width="75%" height="auto">
+<img alt="Screenshot" src="./docs/Screenshot%202023-08-14%20164737.png" width="60%" height="auto">
 
 Cell is an experimental game concept. It's goal is to create a fun programming game themed around microscopic cells & their evolution.
 
